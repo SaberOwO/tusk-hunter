@@ -2,7 +2,7 @@
 //  Hunt_TaskTests.m
 //  Hunt TaskTests
 //
-//  Created by 翼飞沈 on 15-3-30.
+//  Created by xinyan huang on 15-3-30.
 //  Copyright (c) 2015年 HuntTask. All rights reserved.
 //
 
